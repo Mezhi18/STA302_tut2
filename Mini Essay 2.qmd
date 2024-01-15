@@ -6,7 +6,6 @@ editor: visual
 ```{r}
 library(usethis)
 library(tidyverse)
-library(gitcreds)
 ```
 
 
