@@ -1,0 +1,14 @@
+---
+title: "Mini Essay 2"
+format: html
+editor: visual
+---
+```{r}
+library(usethis)
+library(tidyverse)
+library(gitcreds)
+```
+
+
+
+
